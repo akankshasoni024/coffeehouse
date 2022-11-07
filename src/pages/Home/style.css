@@ -1,0 +1,9 @@
+.product-tile{
+    display: flex;
+    flex-direction: row;
+    margin: 1%;
+}
+
+.product-tile-inner{
+    margin: 1%;
+}

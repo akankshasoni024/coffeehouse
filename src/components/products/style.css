@@ -1,0 +1,10 @@
+.product-tile-container{
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center ;
+    flex-direction: column;
+    padding: 1%;
+    margin: 2%;
+}
